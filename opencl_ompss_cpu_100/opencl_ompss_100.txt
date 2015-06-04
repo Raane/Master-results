@@ -1,0 +1,8 @@
+1433424849153
+Final generation: 306
+1433424896521
+MSG: [?] ============ Nanos++ Final Execution Summary ============
+MSG: [?] === Application ended in 47 seconds
+MSG: [?] === 306 tasks have been executed
+MSG: [?] =========================================================
+

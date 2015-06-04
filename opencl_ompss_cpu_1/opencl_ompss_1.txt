@@ -1,0 +1,8 @@
+1433424700441
+Final generation: 301
+1433424708319
+MSG: [?] ============ Nanos++ Final Execution Summary ============
+MSG: [?] === Application ended in 8 seconds
+MSG: [?] === 301 tasks have been executed
+MSG: [?] =========================================================
+

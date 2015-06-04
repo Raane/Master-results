@@ -1,0 +1,16 @@
+1433424224348
+Final generation: 281
+1433424233578
+MSG: [2] OpenCL Mali-T628 TRANSFER STATISTICS
+MSG: [2]     Total input transfers: 65.3789 MB
+MSG: [2]     Total output transfers: 893.75 KB
+MSG: [2]     Total dev2dev(in) transfers: 0 B
+MSG: [1] OpenCL Mali-T628 TRANSFER STATISTICS
+MSG: [1]     Total input transfers: 63.0929 MB
+MSG: [1]     Total output transfers: 862.5 KB
+MSG: [1]     Total dev2dev(in) transfers: 0 B
+MSG: [?] ============ Nanos++ Final Execution Summary ============
+MSG: [?] === Application ended in 9 seconds
+MSG: [?] === 281 tasks have been executed
+MSG: [?] =========================================================
+
