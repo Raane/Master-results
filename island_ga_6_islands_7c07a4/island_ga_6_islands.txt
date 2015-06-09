@@ -1,31 +1,35 @@
-1433387032263
-Final generation: 370
-1433387034121
-Final generation: 400
-1433387036076
-Final generation: 390
-1433387038039
-Final generation: 370
-1433387039923
-Final generation: 350
-1433387041566
-Final generation: 380
-1433387043546
-Final generation: 360
-1433387045247
-Final generation: 400
-1433387047256
-Final generation: 370
-1433387049150
-Final generation: 360
-1433387050852
-Final generation: 350
-1433387052611
-Final generation: 380
-1433387054477
-Final generation: 380
-1433387056313
-Final generation: 390
-1433387058268
-Final generation: 390
-1433387060098
+1433868990163
+Final generation: 320
+1433868993601
+Final generation: 320
+1433868997014
+Final generation: 320
+1433869000533
+Final generation: 330
+1433869003963
+Final generation: 330
+1433869007581
+Final generation: 340
+1433869011072
+Final generation: 320
+1433869014394
+Final generation: 300
+1433869017556
+Final generation: 340
+1433869020973
+Final generation: 310
+1433869024393
+Final generation: 330
+1433869027746
+Final generation: 320
+1433869031093
+Final generation: 320
+1433869034379
+Final generation: 330
+1433869037762
+Final generation: 330
+1433869041253
+MSG: [?] ============ Nanos++ Final Execution Summary ============
+MSG: [?] === Application ended in 51 seconds
+MSG: [?] === 29160 tasks have been executed
+MSG: [?] =========================================================

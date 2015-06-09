@@ -1,31 +1,31 @@
-1433386571765
-Final generation: 294
-1433386574949
-Final generation: 308
-1433386578292
-Final generation: 322
-1433386581767
-Final generation: 315
-1433386585181
-Final generation: 310
-1433386588535
-Final generation: 306
-1433386591829
-Final generation: 303
-1433386595105
+1433862839763
+Final generation: 280
+1433862848304
 Final generation: 287
-1433386598189
-Final generation: 312
-1433386601543
-Final generation: 304
-1433386604816
-Final generation: 310
-1433386608190
-Final generation: 325
-1433386611687
-Final generation: 321
-1433386615145
-Final generation: 288
-1433386618261
-Final generation: 290
-1433386621375
+1433862857044
+Final generation: 279
+1433862865576
+Final generation: 272
+1433862873918
+Final generation: 281
+1433862882436
+Final generation: 283
+1433862891009
+Final generation: 276
+1433862899398
+Final generation: 273
+1433862907704
+Final generation: 266
+1433862915720
+Final generation: 292
+1433862924512
+Final generation: 282
+1433862933079
+Final generation: 271
+1433862941309
+Final generation: 266
+1433862949408
+Final generation: 278
+1433862957851
+Final generation: 279
+1433862966346

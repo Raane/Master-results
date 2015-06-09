@@ -1,0 +1,36 @@
+1433865839558
+Final generation: 370
+1433865847055
+Final generation: 320
+1433865853526
+Final generation: 330
+1433865860190
+Final generation: 350
+1433865867202
+Final generation: 340
+1433865874068
+Final generation: 370
+1433865881397
+Final generation: 340
+1433865888315
+Final generation: 340
+1433865895159
+Final generation: 360
+1433865902431
+Final generation: 330
+1433865909251
+Final generation: 340
+1433865916120
+Final generation: 360
+1433865923464
+Final generation: 350
+1433865930580
+Final generation: 330
+1433865937231
+Final generation: 340
+1433865944083
+MSG: [?] ============ Nanos++ Final Execution Summary ============
+MSG: [?] === Application ended in 105 seconds
+MSG: [?] === 31020 tasks have been executed
+MSG: [?] =========================================================
+
